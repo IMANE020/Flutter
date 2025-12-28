@@ -119,7 +119,7 @@ flutter run
 
 ## 📸 Captures d’écran
 
-> [Les captures d’écran de l’application](https://github.com/IMANE020/ACE/tree/main/Projet/backend)
+> [Les captures d’écran de l’application](https://github.com/IMANE020/Flutter/tree/main/Projet/Screens)
 
 ---
 
